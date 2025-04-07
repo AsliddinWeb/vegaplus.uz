@@ -646,7 +646,7 @@
   line-height: 50px;
   border-radius: 30px;
   display: block;
-  transition: all 0.3s ease-in;
+  transition: all 0.1s ease-in;
 }
 .preloader-inner .cancel-preloader a:hover {
   background-color: #00aeff;
